@@ -1,4 +1,4 @@
-package com.evidencia.api_1.Controller;
+package com.evidencia.api_1.controller;
 
 import java.sql.Date;
 import java.util.ArrayList;
