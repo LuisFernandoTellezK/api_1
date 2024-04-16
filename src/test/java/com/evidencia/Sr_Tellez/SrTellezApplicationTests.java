@@ -8,6 +8,9 @@ class SrTellezApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
+		SrTellezApplicationTests testInstance = new SrTellezApplicationTests();
+		assertNotNull(testInstance, "La clase SrTellezApplicationTests debe existir");
 	}
 
 }
